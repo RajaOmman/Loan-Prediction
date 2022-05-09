@@ -1,0 +1,2 @@
+# Loan-Prediction
+The purpose of the project is to automate the loan eligibility process (in real time) based on the information provided by the client when completing the online application form. These details include gender, marital status, education, family size, income, loan amount, credit history, etc. In order to automate this process, a problem has been identified that identifies the customer base, which is the customer base that is eligible for the loan amount, in order to target it.
